@@ -1,0 +1,10 @@
+site:
+  title: Edu-V Afsprakenstelsel
+  structure:
+    - type: space
+      key: space-afsprakenstelsel
+      title: Afsprakenstelsel
+      path: afsprakenstelsel
+      default: true
+      content:
+        directory: ./
